@@ -1,9 +1,9 @@
-import { Inter } from '@next/font/google'
-
-const inter = Inter({ subsets: ['latin'] })
+import { Logo } from "../components/Logo/Logo"
 
 export default function Home() {
   return (
-    <h1>É só fazer projeto que vc aprende</h1>
+    <div>
+      <Logo />
+    </div>
   )
 }
