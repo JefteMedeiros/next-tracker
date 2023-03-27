@@ -14,7 +14,6 @@ module.exports = {
       },
       fontFamily: {
         nunito: ["var(--font-nunito)"],
-        josefin_sans: ["var(--josefin-sans)"],
       },
     },
   },
